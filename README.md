@@ -1,2 +1,2 @@
 # git-github
-This if learning Git
+This is for learning Git
